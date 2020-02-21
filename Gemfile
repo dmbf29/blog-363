@@ -39,6 +39,7 @@ gem 'turbolinks', '~> 5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # added
+gem 'cloudinary', '~> 1.12.0'
 gem 'simple_form'
 
 
